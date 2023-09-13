@@ -1,0 +1,42 @@
+
+.menu{
+    background-color: rgba(0, 0, 0, 0.336);
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 600px;
+    padding: 30px;
+    border-radius: 30px;
+    }
+
+body{
+    padding: 20px;
+    background-size: contain;
+    background-position: center;
+    background-image: url(https://www.ahstatic.com/photos/a5b9_ho_00_p_1024x768.jpg);} 
+
+.homepage{text-align: left;
+color: rgb(61, 61, 166);
+}
+
+h1,form, div, p, label{text-align: center;}
+
+input{margin-top: 5;}
+
+textarea{text-align: center;}
+
+.email{margin-right: 30px;
+margin-left: 30px;}
+
+.date{margin-right: 90px;
+margin-left: -30px;}
+
+h1, label, p{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
+
+h1, label, a{color: rgb(241, 241, 241);}
+
+.butt{height: 30px;
+      border-radius: 5px;
+      background-color: rgba(195, 195, 195, 0.749);
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+      
